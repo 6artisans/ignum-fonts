@@ -1,20 +1,20 @@
 @font-face {
-  font-family: 'azo-sans-web';
-  src: url('azo-sans/2D3824_1_0.eot');
-  src: url('azo-sans/2D3824_1_0.eot?#iefix') format('embedded-opentype'),
-       url('azo-sans/2D3824_1_0.woff2') format('woff2'),
-       url('azo-sans/2D3824_1_0.woff') format('woff'),
-       url('azo-sans/2D3824_1_0.ttf') format('truetype');
+  font-family: 'azo-sans-web-normal';
+  src: url('azo-sans/azo-sans-web-normal.eot');
+  src: url('azo-sans/azo-sans-web-normal.eot?#iefix') format('embedded-opentype'),
+       url('azo-sans/azo-sans-web-normal.woff2') format('woff2'),
+       url('azo-sans/azo-sans-web-normal.woff') format('woff'),
+       url('azo-sans/azo-sans-web-normal.ttf') format('truetype');
   font-style:normal;font-weight:400;
 }
 
 @font-face {
-  font-family: 'azo-sans-web';
-  src: url('azo-sans/2D3824_0_0.eot');
-  src: url('azo-sans/2D3824_0_0.eot?#iefix') format('embedded-opentype'),
-       url('azo-sans/2D3824_0_0.woff2') format('woff2'),
-       url('azo-sans/2D3824_0_0.woff') format('woff'),
-       url('azo-sans/2D3824_0_0.ttf') format('truetype');
+  font-family: 'azo-sans-web-bold';
+  src: url('azo-sans/azo-sans-web-bold.eot');
+  src: url('azo-sans/azo-sans-web-bold.eot?#iefix') format('embedded-opentype'),
+       url('azo-sans/azo-sans-web-bold.woff2') format('woff2'),
+       url('azo-sans/azo-sans-web-bold.woff') format('woff'),
+       url('azo-sans/azo-sans-web-bold.ttf') format('truetype');
   font-style:normal;font-weight:700;
 }
 
